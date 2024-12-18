@@ -22,6 +22,7 @@ This project provides a framework for:
 ```bash
 git clone https://github.com/tmickleydoyle/training-data-builder.git
 cd training-data-builder
+```
 
 2. Install the required dependencies:
 
