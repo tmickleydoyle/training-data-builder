@@ -27,7 +27,7 @@ cd <repository-name>
 
 
 ```shellscript
-pip install tree-sitter ollama
+pip install -r requirements.txt
 ```
 
 3. Ensure you have Ollama running with the qwen2.5-coder:7b model:
