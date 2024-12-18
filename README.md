@@ -20,8 +20,8 @@ This project provides a framework for:
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
-cd <repository-name>
+git clone https://github.com/tmickleydoyle/training-data-builder.git
+cd training-data-builder
 
 2. Install the required dependencies:
 
